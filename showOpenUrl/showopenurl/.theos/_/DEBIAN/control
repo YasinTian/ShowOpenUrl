@@ -1,0 +1,10 @@
+Package: com.yourcompany.showopenurl
+Name: showOpenUrl
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: yasin
+Author: yasin
+Section: Tweaks
+Version: 0.0.1-16+debug
+Installed-Size: 160
